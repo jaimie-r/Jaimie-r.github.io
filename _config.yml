@@ -1,3 +1,5 @@
-theme: Architect
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
 title: Jaimie-r's homepage
 description: first test website
