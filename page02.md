@@ -1,4 +1,5 @@
 ---
+layout: page
 id: page02
 title: "PAGE 02"
 permalink: /page02
