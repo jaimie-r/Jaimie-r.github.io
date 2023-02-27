@@ -3,3 +3,9 @@ plugins:
 - jekyll-remote-theme
 title: Jaimie-r's homepage
 description: first test website
+sidebar:
+  - page1
+  - label: pages
+    children:
+      - page01
+      - page02
